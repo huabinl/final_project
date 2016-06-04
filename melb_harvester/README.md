@@ -1,6 +1,6 @@
 MelbourneHarvester
 ======
-- Tweepy, Textblob, and Couchdb libraries are needed to be installed before.
+- Tweepy, Textblob, and Couchdb libraries are needed to be installed in advance.
 - Commands to run: python stream_harvest.py     
 python search_harvest.py
 
