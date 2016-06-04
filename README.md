@@ -2,7 +2,7 @@ Computing Project
 ================
 
 ##Overview
-This repository contains the source of my Computing Project (COMP90055) in University of Melbourne. It is a 25 credit points subject. Now, this system is deployed across three instances in NeCTAR Research Cloud (https://www.nectar.org.au/)
+This repository contains the source of my Computing Project (COMP90055) in University of Melbourne. It is a 25 credit points subject. This system is mainly written in Python, and now deployed across three instances in NeCTAR Research Cloud (https://www.nectar.org.au/)
 - Supervisor: Professor Richard Sinnott
 - Author: Huabin Liu (ID: 658274)  
 - Email: huabinl@student.unimelb.edu.au
